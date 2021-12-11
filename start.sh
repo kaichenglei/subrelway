@@ -1,7 +1,7 @@
 #!/bin/sh
 
 # configs
-AUUID=ada7fc8a-5a7b-11ec-bf63-0242ac130002
+AUUID=193cfd12-9731-46bd-b188-f14e9f3bead7
 CADDYIndexPage=https://github.com/AYJCSGM/mikutap/archive/master.zip
 CONFIGCADDY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/Caddyfile
 CONFIGXRAY=https://raw.githubusercontent.com/Lbingyi/HerokuXray/master/etc/xray.json
